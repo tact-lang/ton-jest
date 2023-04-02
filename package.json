@@ -1,6 +1,6 @@
 {
   "name": "ton-jest",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/index.js",
   "repository": "https://github.com/tact-lang/ton-jest.git",
   "author": "Steve Korshakov <steve@korshakov.com>",
