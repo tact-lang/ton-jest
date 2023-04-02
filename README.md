@@ -5,7 +5,7 @@ Testing tools for TON and Jest
 ## Installation
 
 ```bash
-yarn add -D @tact-lang/jest
+yarn add -D ton-jest
 ```
 
 ## Usage
@@ -14,7 +14,7 @@ Add the following to your Jest configuration:
 
 ```json
 {
-  "snapshotSerializers": ["@tact-lang/jest/serializers"]
+  "snapshotSerializers": ["ton-jest/serializers"]
 }
 ```
 
